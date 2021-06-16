@@ -15,3 +15,4 @@
  변수 지정, 에러 핸들링, UI
  
 # 5. 실행화면 이미지 
+![fin](https://user-images.githubusercontent.com/78963894/122223673-5a73aa00-ceee-11eb-89a8-20b465dc33ca.JPG)
